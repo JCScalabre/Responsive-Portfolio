@@ -166,6 +166,8 @@ h2 {
 	font-size: 18px;
 }
 
+
+
 @media screen and (max-width: 980px) {
 
 #aboutme {
@@ -218,7 +220,7 @@ h2 {
 @media screen and (max-width: 640px) {
 
 #aboutme {
-	left: 13px;
+	left: 20px;
 	height: 505px;
 	width: 580px;
 	top: 180px;
@@ -227,7 +229,7 @@ h2 {
 
 #jcscalabre {
 	margin-left: 0px;
-	width: 100%;
+	width: 583px;
 }
 
 #bg {
@@ -236,7 +238,7 @@ h2 {
 
 #connect {
 	width: 580px;
-	left: 13px;
+	left: 20px;
 	top: 715px;
 }
 

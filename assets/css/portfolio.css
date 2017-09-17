@@ -227,6 +227,11 @@ h2 {
 	color: white;
 }
 
+/* My entire code is written really badly, with absolute positions
+and pixel dimensions, so my pages only look good if you view them
+in the exact widths (980px / 768px / 640px). Will work on writing
+better code in the future. */
+
 @media screen and (max-width: 980px) {
 
 #aboutme {
